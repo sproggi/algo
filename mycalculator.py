@@ -1,4 +1,4 @@
-# 66532921 # without class MyCalculator 66533534
+# 66533534
 
 class Stack:
     def __init__(self):
@@ -15,10 +15,6 @@ class Stack:
             raise IndexError('error')
         return self.items.pop()
 
-
-# class MyCalculator(Stack):
-#     def __init__(self):
-#         super().__init__()
 
 def operation(value, first_digit, second_digit):
     operations_dict = {
