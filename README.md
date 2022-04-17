@@ -10,4 +10,3 @@
 * Nearest zero
 * Sliding average
 * Two velocicle
- \n ...etc
