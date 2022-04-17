@@ -1,1 +1,3 @@
-# algo
+# Some algoritms
+* Polish notation
+* Dequeue
